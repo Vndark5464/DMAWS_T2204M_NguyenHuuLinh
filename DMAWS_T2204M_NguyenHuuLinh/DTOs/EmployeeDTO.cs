@@ -2,7 +2,7 @@
 
 namespace DMAWS_T2204M_NguyenHuuLinh.DTOs
 {
-    public class EmployeeDTO
+    public class EmployeeDTO{
 
 
         public int EmployeeId { get; set; }
